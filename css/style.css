@@ -1,8 +1,98 @@
+body {
+	
+ }
+
+
 .box p{
     padding: 50px;
     font-size: 32px;
     font-weight: bold;
     text-align: center;
-    background: #dbdfe5;
-    border:2px solid black;
+    background: #1a0000;
+    color:  #ffffff;
+    font-family: "Times New Roman ";
+    border:1px solid black;
+    
 }
+h1 {
+	text-align: left;
+}
+
+.header
+{
+	background-color:#663300;	
+	height:100vh;
+	background-position: center;
+	background-size: cover;
+	
+}
+
+.section0 {
+	width: 90%;
+	max-width: 100%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #fff;
+	display: none;
+}
+.section1 {
+
+	width: 90%;
+	max-width: 100%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	padding:20px;
+}
+#mapContainer{
+	padding:0 30px;
+}
+#map{
+	height:400px;	
+}
+.format {
+	font-family: Arial, Serif;
+	font-size: large;
+	max-width: 100%;
+}
+.cafea{
+	font-family: :Arial black, Serif;
+	font-style: italic;
+	font-size: large;
+	max-width: 100%;
+
+}
+.big {
+	font-family:Arial , Serif;
+	font-size: xx-large;
+	max-width: 100%;
+}
+.menu-titles{
+	font-family: Arial, Serif;
+	font-size: medium;
+	max-width: 700px;
+}
+.normal-text {
+	font-family: Arial, Serif;
+	font-size: small;
+	max-width: 700px;
+
+}
+.name{
+	font-family: tahoma, serif;
+	font-size: xx-large;
+	width: 100px;
+	
+	color: white;
+
+}
+
+.logo {width:100px; 
+	height: 50px; 
+	float: left; }
+.container {
+
+}
+
